@@ -1,3 +1,6 @@
+[Django 学习教程](https://simpleisbetterthancomplex.com/series/2017/09/25/a-complete-beginners-guide-to-django-part-4.html#introduction)
+
+
 **download python**
 
 **for manage different version of python. I advice you use Virtualenv. For each Django project, you first create a Virtual Environment for it. So you can play around, install packages, uninstall packages without breaking anything.**
@@ -16,7 +19,13 @@ pip install django. (Install django.)
 
 ```
 # start a new project 
+
 **django-admin startproject myproject**
+
+```
 run the django project 
+```
+
 **python manage.py runserver**
+
 Now open the "http://localhost:8000" and you can see the worked page.
