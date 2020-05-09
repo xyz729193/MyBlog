@@ -1,5 +1,6 @@
-[Django 学习教程](https://simpleisbetterthancomplex.com/series/2017/09/25/a-complete-beginners-guide-to-django-part-4.html#introduction)
+[Django 学习教程](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/)
 
+[下载无损压缩位图](https://www.toptal.com/designers/subtlepatterns/)
 
 **download python**
 
@@ -7,6 +8,7 @@
 
 ```
 firstly : sudo pip3 install virtualenv
+
 1、mkdir myproject 
 2、cd myproject
 3、virtualenv venv -p python3
